@@ -1,22 +1,84 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "this is a fucking good mod",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"songs": [
+		[
+			"endless",
+			"majin",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"cycles",
+			"lordx",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"black-sun",
+			"exe",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"sunshine",
+			"tails2",
+			[
+				0,
+				0,
+				153
+			]
+		]
+	],
+	"hideStoryMode": true,
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
